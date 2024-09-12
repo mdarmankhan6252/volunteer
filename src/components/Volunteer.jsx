@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Volunteer = () => {
    const [volunteer, setVolunteer] = useState([])
    useEffect(() => {
-      fetch('http://localhost:5000/volunteer')
+      fetch('https://server-wheat-zeta.vercel.app/volunteer')
          .then(res => res.json())
          .then(data => setVolunteer(data))
    }, [])

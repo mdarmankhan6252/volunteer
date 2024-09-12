@@ -27,7 +27,7 @@ const AddVolunteer = () => {
       const volunteer = {thumbnail, post_title, category, location,description, volunteers_number, deadline, author}
       // console.log(volunteer)
 
-      fetch('http://localhost:5000/volunteer', {
+      fetch('https://server-wheat-zeta.vercel.app/volunteer', {
          method:'POST', 
          headers:{
             'content-type'  : 'application/json'

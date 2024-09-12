@@ -15,7 +15,7 @@ const MyPostCard = ({volunteers}) => {
        }).then((result) => {
          if (result.isConfirmed) {
 
-            fetch(`http://localhost:5000/volunteer/${_id}`, {
+            fetch(`https://server-wheat-zeta.vercel.app/volunteer/${_id}`, {
                method:'DELETE'
             })
             .then(res => res.json())

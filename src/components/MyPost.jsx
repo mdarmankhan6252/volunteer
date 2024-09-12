@@ -5,7 +5,7 @@ const MyPost = () => {
    const [volunteers, setVolunteers] = useState([])
 
    useEffect(() =>{
-      fetch('http://localhost:5000/volunteer')
+      fetch('https://server-wheat-zeta.vercel.app/volunteer')
       .then(res => res.json())
       .then(data =>{
          setVolunteers(data)

@@ -1,0 +1,129 @@
+[
+   {
+     "thumbnail": "https://i.ibb.co/xCrKtdK/volunteer-holding-orange-tabby-kitten.jpg",
+     "post_title": "Healthcare Volunteers Needed",
+     "category": "healthcare",
+     "location": "New York, USA",
+     "volunteers_number": 10,
+     "deadline": "2024-09-30",
+     "description": "We are looking for volunteers to support our healthcare outreach program.",
+     "author": {
+       "name": "Dr. John Smith",
+       "email": "johnsmith@example.com",
+       "author_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJkw_ZXByBvmEetNwp3Vw0QZgKaY073BNjQ&s"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/mRH3tMf/Cheap-Affordable-Volunteer-Programs-Header.jpg",
+     "post_title": "Education Volunteers for Rural Areas",
+     "category": "education",
+     "location": "Mumbai, India",
+     "volunteers_number": 15,
+     "deadline": "2024-10-05",
+     "description": "Join us to educate children in rural areas.",
+     "author": {
+       "name": "Amit Patel",
+       "email": "amitpatel@example.com",
+       "author_photo": "https://example.com/amitpatel.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/fvPK924/1-SFH-basic-needs-4-700x442.jpg",
+     "post_title": "Social Service Volunteers",
+     "category": "social_service",
+     "location": "London, UK",
+     "volunteers_number": 20,
+     "deadline": "2024-09-25",
+     "description": "Help us in our social service efforts for underprivileged communities.",
+     "author": {
+       "name": "Emily Johnson",
+       "email": "emilyjohnson@example.com",
+       "author_photo": "https://example.com/emilyjohnson.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/5BRPR54/Medical-Volunteer-Abroad-Section-Header.jpg",
+     "post_title": "Animal Welfare Volunteers",
+     "category": "animal_welfare",
+     "location": "Sydney, Australia",
+     "volunteers_number": 8,
+     "deadline": "2024-09-28",
+     "description": "Help us care for animals in shelters.",
+     "author": {
+       "name": "Laura Baker",
+       "email": "laurabaker@example.com",
+       "author_photo": "https://example.com/laurabaker.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/d5tXh75/shutterstock-428931997-e1543504561281-thegem-blog-default.jpg",
+     "post_title": "Healthcare Outreach",
+     "category": "healthcare",
+     "location": "Los Angeles, USA",
+     "volunteers_number": 12,
+     "deadline": "2024-10-15",
+     "description": "Support our healthcare outreach for the homeless.",
+     "author": {
+       "name": "Michael Brown",
+       "email": "michaelbrown@example.com",
+       "author_photo": "https://example.com/michaelbrown.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/gwDyhR9/kenya1.png",
+     "post_title": "Education Mentors for Teens",
+     "category": "education",
+     "location": "Toronto, Canada",
+     "volunteers_number": 7,
+     "deadline": "2024-09-29",
+     "description": "Be a mentor for teenagers in low-income neighborhoods.",
+     "author": {
+       "name": "Andrew Parker",
+       "email": "andrewparker@example.com",
+       "author_photo": "https://example.com/andrewparker.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/xCrKtdK/volunteer-holding-orange-tabby-kitten.jpg",
+     "post_title": "Community Social Service",
+     "category": "social_service",
+     "location": "Cape Town, South Africa",
+     "volunteers_number": 25,
+     "deadline": "2024-09-20",
+     "description": "Join our team to uplift local communities through social work.",
+     "author": {
+       "name": "Oliver Scott",
+       "email": "oliverscott@example.com",
+       "author_photo": "https://example.com/oliverscott.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/5BRPR54/Medical-Volunteer-Abroad-Section-Header.jpg",
+     "post_title": "Animal Rescue Volunteers",
+     "category": "animal_welfare",
+     "location": "Berlin, Germany",
+     "volunteers_number": 6,
+     "deadline": "2024-10-01",
+     "description": "Assist in rescuing and rehabilitating animals in need.",
+     "author": {
+       "name": "Kevin Moore",
+       "email": "kevinmoore@example.com",
+       "author_photo": "https://example.com/kevinmoore.jpg"
+     }
+   },
+   {
+     "thumbnail": "https://i.ibb.co/gwDyhR9/kenya1.png",
+     "post_title": "Medical Aid Volunteers",
+     "category": "healthcare",
+     "location": "Tokyo, Japan",
+     "volunteers_number": 5,
+     "deadline": "2024-10-10",
+     "description": "Provide medical aid to disaster-stricken areas.",
+     "author": {
+       "name": "Yuki Nakamura",
+       "email": "yukinakamura@example.com",
+       "author_photo": "https://example.com/yukinakamura.jpg"
+     }
+   }
+ ]
+ 
